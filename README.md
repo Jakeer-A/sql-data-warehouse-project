@@ -83,10 +83,6 @@ data-warehouse-project/
 ---
 
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 ## 🌟 About Me
 
 Hi there! I'm Allisher Jakeer, a Computer Science graduate passionate about Data Engineering and Analytics.
